@@ -1,3 +1,3 @@
 # forkify Project
 
-Recipe application with custom recipe uploads.
+Recipe application that uses the Forkify API to fetch and display food recipes. 
