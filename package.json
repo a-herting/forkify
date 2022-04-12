@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Alex Herting",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.1",
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-private-methods": "^7.16.0",
+    "@babel/plugin-proposal-private-property-in-object": "^7.16.0",
+    "core-js": "^3.19.3",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
