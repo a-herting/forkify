@@ -1,6 +1,6 @@
 # Forkify
 
-Javascript application that utilizes the Forkify API to fetch and display food recipes.
+Javascript application that utilizes the Forkify API to fetch and display food recipes. A live version of this application can be found [here](https://forkify-herting.netlify.app/). 
 
 We used user stories to discover the following desires users have for the product to inform what features should be included in the application. 
 		
