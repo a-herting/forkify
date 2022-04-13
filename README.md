@@ -46,3 +46,5 @@ We used user stories to discover the following desires users have for the produc
  5. The **controller** awaits the data from **model.loadRecipe( id )**
  6. The **controller** renders the recipe via the **recipeView.render( model.state.recipe )** function call.
  7. The **view** calls the **generateMarkup( )** function on this recipe data where the markup is generated
+
+This project was completed during [The Modern Javascript course on Udemy](https://www.udemy.com/course/the-complete-javascript-course/learn/) taught by Jonas Schmedtmann. 
